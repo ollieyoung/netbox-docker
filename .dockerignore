@@ -2,7 +2,6 @@
 .github
 .travis.yml
 *.md
-env
 build*
 docker-compose.override.yml
 .netbox/.git*
